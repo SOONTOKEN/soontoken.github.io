@@ -76,7 +76,7 @@ SOON Alliance гарантирует, что в пуле на старте 1 SOO
 Управление токеном SOON будет передано на адрес смарт-контракта «черной дыры», для предотвращения появления новой эмиссии токена SOON на рынке. 
 
 **Black hole:**
-https://tonscan.io/accounts/-1:EFD5A14409A8A129686114FC092525FDDD508F1EA56D1B649A3A695D3A5B188C
+[https://tonscan.io/accounts/-1:EFD5A14409A8A129686114FC092525FDDD508F1EA56D1B649A3A695D3A5B188C](https://tonscan.io/accounts/-1:EFD5A14409A8A129686114FC092525FDDD508F1EA56D1B649A3A695D3A5B188C)
 
 ## Коллаборация с токенами не из WhiteList от Broxus
 
@@ -105,14 +105,16 @@ SOON Alliance - группа первых держателей токена SOON
 
 **Создатель токена:**
 
-
+| Telegram | Адрес кошелька |
+|:----------:|:----------:|
 | @andrew_vinter | 0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980 |
 
 
 
 **Участники SOON Alliance:**
 
-
+| Telegram | Адрес кошелька |
+|:----------:|:----------:|
 | @andrew_vinter | 0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980 |
 | @SOKOL491 |0:cd26b47ebf79788924a057c39efd639107c3ad18b5de67bf5f3eb14812214433 |
 | @Novoque | 0:a091afbe369a755cb8e4826b4b72b26407c45071943fa36f44159f3c53eab43e |
