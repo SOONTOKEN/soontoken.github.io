@@ -126,4 +126,4 @@ SOON Alliance - группа первых держателей токена SOON
 
 
 Контакты:
-Telegram чат - @soon_chat
+Telegram чат - [@soon_chat](https://t.me/soon_chat)
