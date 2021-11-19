@@ -122,7 +122,7 @@ SOON Alliance - группа первых держателей токена SOON
 | @STRnhVS | 0:ad993c731e1791d8fcf9cf77c413b7dd16959a7bbb3a5ca386f4183dff1113b1 |
 | @krasnodar_sky | 0:d0ee75e8ac94d735a9bb553b68b7ccb141237646bf9529098663443724f54f19 |
 | @tontikiton | 0:34c169f99c6a8a1d2d290e5e50ed074f1faeb339a6fc4a3cdd647659335d9820 |
-| @Angel_108 | 0:076c72e3ff6473d1b16edbb1bcec596f4be6f86c3f8845339d717d9f32e33bea |
+| [@Angel_108](https://t.me/Angel_108) | 0:076c72e3ff6473d1b16edbb1bcec596f4be6f86c3f8845339d717d9f32e33bea |
 
 
 Контакты:
