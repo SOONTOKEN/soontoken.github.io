@@ -1,5 +1,6 @@
-# Дорожная карта токена SOON в блокчейне Everscale
+# Дорожная карта токена SOON на блокчейне Everscale
 
+* [Токен SOON](#токен-soon)
 * [Проведение IPO (Первичное публичное размещение)](#проведение-ipo-первичное-публичное-размещение)
 * [Выпуск эмиссии токена.](#выпуск-эмиссии-токена)
 * [Создание мульти-сигнатурного кошелька SOON Alliance.](#создание-мульти-сигнатурного-кошелька-soon-alliance)
@@ -12,6 +13,17 @@
 * [TVL токена SOON > $100 000](#tvl-токена-soon--100-000)
 * [Листинг на tonswap.io в WhiteList](#листинг-на-tonswapio-в-whitelist)
 * [SOON Alliance](#soon-alliance)
+* [Контакты](#контакты)
+
+## Токен SOON
+
+SOON - Токен типа TIP-3/Broxus на блокчейне Everscale.
+
+|  | Main details |
+|:----------:|:----------:|
+| Address | [0:A88B380064DAD1520F09E6ED1162CE79272503A6D443FC938FAEAABD135C294D](https://tonscan.io/accounts/0:A88B380064DAD1520F09E6ED1162CE79272503A6D443FC938FAEAABD135C294D) |
+| Total supply | Конечная эмиссия токена будет зависеть от проведенного IPO |
+| Decimals | 4 |
 
 ## Проведение IPO (Первичное публичное размещение)
 
@@ -42,12 +54,12 @@ SOON Alliance гарантирует, что в пуле на старте 1 SOO
 >
 > В первый день это может быть 125 SOON
 > А в пятый день это может быть всего 83.3333 SOON
-
+> 
 > Значит, для того, чтоб минимизировать риски, с большим количеством эмиссии на рынке и снижении цены токена SOON, в первый день должен быть максимальный вестинг по месяцам, нежели в пятый день.
 
 ## Выпуск эмиссии токена
 
-Выпуск эмиссии токена, с учетом того, что все проданные на IPO токены равняются 10% общей эмиссии.
+Выпустить эмиссию токена, с учетом того, что все проданные на IPO токены равняются 10% общей эмиссии.
 
 ## Создание мульти-сигнатурного кошелька SOON Alliance
 
@@ -68,14 +80,14 @@ SOON Alliance гарантирует, что в пуле на старте 1 SOO
 
 ## Создание пула ликвидности
 
-Создать пул ликвидности в паре с USDT (tip-3) на tonswap.io в соотношении 1:1 к полученным в ходе проведения IPO токенам USDT
+Создать пул ликвидности в паре с USDT (TIP-3/Broxus) на tonswap.io в соотношении 1:1 к полученным в ходе проведения IPO токенам USDT
 
 ## Root токена SOON
 
 Управление токеном SOON будет передано на адрес смарт-контракта «черной дыры», для предотвращения появления новой эмиссии токена SOON на рынке. 
 
 **Black hole:**
-[https://tonscan.io/accounts/-1:EFD5A14409A8A129686114FC092525FDDD508F1EA56D1B649A3A695D3A5B188C](https://tonscan.io/accounts/-1:EFD5A14409A8A129686114FC092525FDDD508F1EA56D1B649A3A695D3A5B188C)
+[-1:EFD5A14409A8A129686114FC092525FDDD508F1EA56D1B649A3A695D3A5B188C](https://tonscan.io/accounts/-1:EFD5A14409A8A129686114FC092525FDDD508F1EA56D1B649A3A695D3A5B188C)
 
 ## Коллаборация с токенами не из WhiteList от Broxus
 
@@ -86,7 +98,7 @@ SOON Alliance гарантирует, что в пуле на старте 1 SOO
 
 ## TVL токена SOON > $100 000
 
-Первостепенная цель токена SOON, для успешного роста и укрепления позиций - рост TVL токена выше $100 000
+Первостепенная цель SOON Alliance, для успешного роста и укрепления позиций токена SOON - рост TVL токена выше $100 000
 
 ## Листинг на tonswap.io в WhiteList
 
@@ -100,30 +112,38 @@ SOON Alliance гарантирует, что в пуле на старте 1 SOO
 
 ## SOON Alliance
 
-SOON Alliance - группа первых держателей токена SOON, получивших свои токены с помощью  AirDrop и  объединившихся для того, чтоб совместно продвигать токен SOON.
+SOON Alliance - группа первых держателей токена SOON, получивших свои токены с помощью  AirDrop и объединившихся для того, чтоб совместно продвигать токен SOON.
 
 **Создатель токена:**
 
 | Telegram | Адрес кошелька |
 |:----------:|:----------:|
-| @andrew_vinter | 0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980 |
+| [@andrew_vinter](https://t.me/andrew_vinter) | [0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980](https://tonscan.io/accounts/0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980) |
 
+**Адрес мульти-сигнатурного кошелька SOON Alliance:**
 
+| Telegram | Адрес кошелька |
+|:----------:|:----------:|
+| SOON Alliance | [0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980](https://tonscan.io/accounts/0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980) |
 
 **Участники SOON Alliance:**
 
 | Telegram | Адрес кошелька |
 |:----------:|:----------:|
-| @andrew_vinter | 0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980 |
-| @SOKOL491 |0:cd26b47ebf79788924a057c39efd639107c3ad18b5de67bf5f3eb14812214433 |
-| @Novoque | 0:a091afbe369a755cb8e4826b4b72b26407c45071943fa36f44159f3c53eab43e |
-| @sgorbunovv | 0:115cf44f0fcb2b5ae8b954ed4687c084f70870451a04acdd2234137ad7cc3039 |
-| @Archi_One_89 | 0:771611e8854ad84a95412506bcf8e7548ce48f6a7ecdfcb9ff261507b8e0f1c6 |
-| @STRnhVS | 0:ad993c731e1791d8fcf9cf77c413b7dd16959a7bbb3a5ca386f4183dff1113b1 |
-| @krasnodar_sky | 0:d0ee75e8ac94d735a9bb553b68b7ccb141237646bf9529098663443724f54f19 |
-| @tontikiton | 0:34c169f99c6a8a1d2d290e5e50ed074f1faeb339a6fc4a3cdd647659335d9820 |
-| [@Angel_108](https://t.me/Angel_108) | 0:076c72e3ff6473d1b16edbb1bcec596f4be6f86c3f8845339d717d9f32e33bea |
+| [@andrew_vinter](https://t.me/andrew_vinter) | [0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980](https://tonscan.io/accounts/0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980) |
+| [@SOKOL491](https://t.me/SOKOL491) | [0:cd26b47ebf79788924a057c39efd639107c3ad18b5de67bf5f3eb14812214433](https://tonscan.io/accounts/0:cd26b47ebf79788924a057c39efd639107c3ad18b5de67bf5f3eb14812214433) |
+| [@Novoque](https://t.me/Novoque) | [0:a091afbe369a755cb8e4826b4b72b26407c45071943fa36f44159f3c53eab43e](https://tonscan.io/accounts/0:a091afbe369a755cb8e4826b4b72b26407c45071943fa36f44159f3c53eab43e) |
+| [@sgorbunovv](https://t.me/sgorbunovv) | [0:115cf44f0fcb2b5ae8b954ed4687c084f70870451a04acdd2234137ad7cc3039](https://tonscan.io/accounts/0:115cf44f0fcb2b5ae8b954ed4687c084f70870451a04acdd2234137ad7cc3039) |
+| [@Archi_One_89](https://t.me/Archi_One_89) | [0:771611e8854ad84a95412506bcf8e7548ce48f6a7ecdfcb9ff261507b8e0f1c6](https://tonscan.io/accounts/0:771611e8854ad84a95412506bcf8e7548ce48f6a7ecdfcb9ff261507b8e0f1c6) |
+| [@STRnhVS](https://t.me/STRnhVS) | [0:ad993c731e1791d8fcf9cf77c413b7dd16959a7bbb3a5ca386f4183dff1113b1](https://tonscan.io/accounts/0:ad993c731e1791d8fcf9cf77c413b7dd16959a7bbb3a5ca386f4183dff1113b1) |
+| [@krasnodar_sky](https://t.me/krasnodar_sky) | [0:d0ee75e8ac94d735a9bb553b68b7ccb141237646bf9529098663443724f54f19](https://tonscan.io/accounts/0:d0ee75e8ac94d735a9bb553b68b7ccb141237646bf9529098663443724f54f19) |
+| [@tontikiton](https://t.me/tontikiton) | [0:34c169f99c6a8a1d2d290e5e50ed074f1faeb339a6fc4a3cdd647659335d9820](https://tonscan.io/accounts/0:34c169f99c6a8a1d2d290e5e50ed074f1faeb339a6fc4a3cdd647659335d9820) |
+| [@Angel_108](https://t.me/Angel_108) | [0:076c72e3ff6473d1b16edbb1bcec596f4be6f86c3f8845339d717d9f32e33bea](https://tonscan.io/accounts/0:076c72e3ff6473d1b16edbb1bcec596f4be6f86c3f8845339d717d9f32e33bea) |
 
+> Личные средства отдельных участников SOON Alliance являются их собственностью, которой они в праве распоряжаться на свое усмотрение.
+> 
+> Средства, находящиеся на мульти-сигнатурном кошельке SOON Alliance, являются собственностью SOON Alliance. Управление средствами проходят путем голосования всех учатсников SOON Alliance.
 
-Контакты:
+## Контакты
+
 Telegram чат - [@soon_chat](https://t.me/soon_chat)
