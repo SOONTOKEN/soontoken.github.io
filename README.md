@@ -48,10 +48,6 @@ SOON Alliance - группа первых держателей токена SOON
 | [@tontikiton](https://t.me/tontikiton) | [0:34c169f99c6a8a1d2d290e5e50ed074f1faeb339a6fc4a3cdd647659335d9820](https://tonscan.io/accounts/0:34c169f99c6a8a1d2d290e5e50ed074f1faeb339a6fc4a3cdd647659335d9820) |
 | [@Angel_108](https://t.me/Angel_108) | [0:076c72e3ff6473d1b16edbb1bcec596f4be6f86c3f8845339d717d9f32e33bea](https://tonscan.io/accounts/0:076c72e3ff6473d1b16edbb1bcec596f4be6f86c3f8845339d717d9f32e33bea) |
 
-> Личные средства отдельных участников SOON Alliance являются их собственностью, которой они в праве распоряжаться на свое усмотрение.
-> 
-> Средства, находящиеся на мульти-сигнатурном кошельке SOON Alliance, являются собственностью SOON Alliance. Управление средствами проходят путем голосования всех учатсников SOON Alliance.
-
 ## Контакты
 
 Telegram чат - [@soon_chat](https://t.me/soon_chat)
