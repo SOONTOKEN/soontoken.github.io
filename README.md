@@ -2,7 +2,9 @@
 
 # Токен SOON на блокчейне Everscale
 
-* [Дорожная карта](/roadmap)
+| [Главная страница](https://soontoken.github.io) | [Дорожная карта](/roadmap) |
+|:----------:|:----------:|
+
 * [Токен SOON](#токен-soon)
 * [SOON Alliance](#soon-alliance)
 * [Контакты](#контакты)
