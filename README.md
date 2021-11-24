@@ -1,11 +1,11 @@
 <p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/favicon.jpg' width='150' height='150'></p>
 
-<ul style='list-style: none; margin: 0; padding-left: 0;'>
-<li>[Главная страница](https://soontoken.github.io)</li>
-<li>[Дорожная карта](/roadmap)</li>
-</ul>
-
 # Токен SOON на блокчейне Everscale
+
+
+| [Главная страница](https://soontoken.github.io) | [Дорожная карта](/roadmap) |
+|:----------:|:----------:|
+
 
 * [Токен SOON](#токен-soon)
 * [SOON Alliance](#soon-alliance)
