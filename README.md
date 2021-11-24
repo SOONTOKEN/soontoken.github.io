@@ -1,4 +1,4 @@
-<p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/favicon.jpg' width='150' height='150' style='border-radius: 100px'></p>
+<p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/favicon.jpg' width='150' height='150'></p>
 
 # Дорожная карта токена SOON на блокчейне Everscale
 
