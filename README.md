@@ -32,7 +32,7 @@ SOON Alliance - группа первых держателей токена SOON
 
 | Telegram | Адрес кошелька |
 |:----------:|:----------:|
-| SOON Alliance | [0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980](https://tonscan.io/accounts/0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980) |
+| SOON Alliance | [0:08e68fc718724faa6909bad19fe5d12228399615197a5e4a9bd7ff4831a3f640](https://tonscan.io/accounts/0:08e68fc718724faa6909bad19fe5d12228399615197a5e4a9bd7ff4831a3f640) |
 
 **Участники SOON Alliance:**
 
