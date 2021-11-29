@@ -32,7 +32,7 @@ SOON Alliance - группа первых держателей токена SOON
 
 | Telegram | Адрес кошелька |
 |:----------:|:----------:|
-| SOON Alliance | [0:08e68fc718724faa6909bad19fe5d12228399615197a5e4a9bd7ff4831a3f640](https://tonscan.io/accounts/0:08e68fc718724faa6909bad19fe5d12228399615197a5e4a9bd7ff4831a3f640) |
+| SOON Alliance | [0:3fa554c49512c49c7818332b4d493f562f5f6e7aca3bb8c19fc586276abda206](https://tonscan.io/accounts/0:3fa554c49512c49c7818332b4d493f562f5f6e7aca3bb8c19fc586276abda206) |
 
 **Участники SOON Alliance:**
 
@@ -40,7 +40,6 @@ SOON Alliance - группа первых держателей токена SOON
 |:----------:|:----------:|
 | [@andrew_vinter](https://t.me/andrew_vinter) | [0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980](https://tonscan.io/accounts/0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980) |
 | [@SOKOL491](https://t.me/SOKOL491) | [0:cd26b47ebf79788924a057c39efd639107c3ad18b5de67bf5f3eb14812214433](https://tonscan.io/accounts/0:cd26b47ebf79788924a057c39efd639107c3ad18b5de67bf5f3eb14812214433) |
-| [@Novoque](https://t.me/Novoque) | [0:a091afbe369a755cb8e4826b4b72b26407c45071943fa36f44159f3c53eab43e](https://tonscan.io/accounts/0:a091afbe369a755cb8e4826b4b72b26407c45071943fa36f44159f3c53eab43e) |
 | [@sgorbunovv](https://t.me/sgorbunovv) | [0:115cf44f0fcb2b5ae8b954ed4687c084f70870451a04acdd2234137ad7cc3039](https://tonscan.io/accounts/0:115cf44f0fcb2b5ae8b954ed4687c084f70870451a04acdd2234137ad7cc3039) |
 | [@Archi_One_89](https://t.me/Archi_One_89) | [0:771611e8854ad84a95412506bcf8e7548ce48f6a7ecdfcb9ff261507b8e0f1c6](https://tonscan.io/accounts/0:771611e8854ad84a95412506bcf8e7548ce48f6a7ecdfcb9ff261507b8e0f1c6) |
 | [@STRnhVS](https://t.me/STRnhVS) | [0:ad993c731e1791d8fcf9cf77c413b7dd16959a7bbb3a5ca386f4183dff1113b1](https://tonscan.io/accounts/0:ad993c731e1791d8fcf9cf77c413b7dd16959a7bbb3a5ca386f4183dff1113b1) |
