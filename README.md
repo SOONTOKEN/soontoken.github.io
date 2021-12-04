@@ -18,6 +18,9 @@ SOON - Токен типа TIP-3/Broxus на блокчейне Everscale.
 | Total supply | Конечная эмиссия токена будет зависеть от проведенного IPO |
 | Decimals | 4 |
 
+
+Токен SOON появился как локальный мем, в телеграмм-чате (@AnalyticsEverscale)[https://t.me/AnalyticsEverscale]. 
+
 ## SOON Alliance
 
 SOON Alliance - группа первых держателей токена SOON, получивших свои токены с помощью  AirDrop и объединившихся для того, чтоб совместно продвигать токен SOON.
