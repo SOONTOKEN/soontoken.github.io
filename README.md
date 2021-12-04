@@ -19,7 +19,7 @@ SOON - Токен типа TIP-3/Broxus на блокчейне Everscale.
 | Decimals | 4 |
 
 
-Токен SOON появился как локальный мем, в телеграмм-чате (@AnalyticsEverscale)[https://t.me/AnalyticsEverscale]. 
+Токен SOON появился как локальный мем, в телеграмм-чате [@AnalyticsEverscale](https://t.me/AnalyticsEverscale).
 
 ## SOON Alliance
 
