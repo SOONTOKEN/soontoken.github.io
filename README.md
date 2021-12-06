@@ -1,4 +1,4 @@
-<p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/logo.png' width='300' height='300'></p>
+<p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/logo.png' width='500' height='500'></p>
 
 | [Главная страница](https://soontoken.github.io) | [Дорожная карта](/roadmap) | [Вестинг](/vesting/) |
 
