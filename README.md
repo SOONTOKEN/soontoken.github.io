@@ -21,13 +21,10 @@ SOON - Токен типа TIP-3/Broxus на блокчейне Everscale.
 
 Токен SOON появился как локальный мем, в телеграмм-чатах [@AnalyticsEverscale](https://t.me/AnalyticsEverscale) и [@tonbridge_official](https://t.me/tonbridge_official).
 
-<p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/C66AC453-3F69-434A-85A7-5282E87BEB93.jpeg' width='300'></p>
-
-<p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/E30CAC5B-E940-4359-9EE6-6C11B88194ED.jpeg' width='300'></p>
-
-<p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/83576AF5-A1AE-407D-AB56-660BC1C1FF47.jpeg' width='300'></p>
-
-<p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/C9B3FBFD-E088-4A7A-A31E-20E3D585A653.jpeg' width='300'></p>
+<p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/C66AC453-3F69-434A-85A7-5282E87BEB93.jpeg' width='300'>
+<img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/E30CAC5B-E940-4359-9EE6-6C11B88194ED.jpeg' width='300'>
+<img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/83576AF5-A1AE-407D-AB56-660BC1C1FF47.jpeg' width='300'>
+<img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/C9B3FBFD-E088-4A7A-A31E-20E3D585A653.jpeg' width='300'></p>
 
 ## SOON Alliance
 
