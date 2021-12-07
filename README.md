@@ -61,4 +61,6 @@ Telegram чат - [@soon_chat](https://t.me/soon_chat)
 
 Telegram канал - [@SOONtoken](https://t.me/SOONtoken)
 
+Twitter - [@SOON_token](https://twitter.com/SOON_token)
+
 <p align='center'><img src='https://gramkit.org/everscale-branding-v1.0/logo/main.svg' width='100'></p>
