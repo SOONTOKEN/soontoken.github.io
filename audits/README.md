@@ -16,3 +16,5 @@
 Аудит смарт-контрактов провела компания Pruvendo.
 
 [Audit_DEX_by_Pruvendo_2021-10-26.pdf](https://github.com/broxus/ton-dex/blob/master/audits/Audit_DEX_by_Pruvendo_2021-10-26.pdf)
+
+<p align='center'><img src='https://gramkit.org/everscale-branding-v1.0/logo/main.svg' width='100'></p>
