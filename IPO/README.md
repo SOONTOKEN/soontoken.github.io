@@ -1,3 +1,7 @@
+<p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/logo.png' width='300'></p>
+
+| [Главная страница](https://soontoken.github.io) | [Дорожная карта](/roadmap) | [Вестинг](/vesting/) | [IPO](/IPO/) |
+
 ## Проведение IPO (Первичное публичное размещение)
 
 Провести IPO (Первичное публичное размещение) в размере 10% от общей эмиссии токена.
