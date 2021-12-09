@@ -33,3 +33,5 @@ SOON Alliance гарантирует, что в пуле на старте 1 SOO
 <p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/chart2.png' width='100%'></p>
 
 > ⚠️ Participation in the IPO is prohibited for residents of the United States and residents of Singapore.
+
+<p align='center'><img src='https://gramkit.org/everscale-branding-v1.0/logo/main.svg' width='100'></p>
