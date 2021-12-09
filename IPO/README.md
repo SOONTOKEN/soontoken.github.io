@@ -1,14 +1,14 @@
 <p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/logo.png' width='300'></p>
 
-| [Главная страница](https://soontoken.github.io) | [Дорожная карта](/roadmap) | [Вестинг](/vesting/) | [IPO](/IPO/) | [Аудит](/audits/) |
+| [Главная страница](https://soontoken.github.io) | [Дорожная карта](/roadmap) | [Вестинг](/vesting/) | [Crowdsale](/Crowdsale/) | [Аудит](/audits/) |
 
-# Проведение IPO (Первичное публичное размещение)
+# Crowdsale
 
-IPO (Первичное публичное размещение) в размере 10% от общей эмиссии токена SOON будет проходить с 15.12.2021 0:00 UTC по 19.12.2021 24:00 UTC
+Crowdsale в размере 10% от общей эмиссии токена SOON будет проходить с 15.12.2021 0:00 UTC по 19.12.2021 24:00 UTC
 
 SOON Alliance гарантирует, что в пуле на старте 1 SOON = $1.5
 
-Объявить 5-ти дневный IPO.
+Объявить 5-ти дневный Crowdsale.
 
 В первый день сбора продаем 1 SOON по $0.8 <br>
 Во второй день 1 SOON уже стоит $0.9 <br>
@@ -18,7 +18,7 @@ SOON Alliance гарантирует, что в пуле на старте 1 SOO
 
 На все проданные токены SOON будет наложен вестинг для избавления от риска дампа в пуле ликвидности.
 
-| День IPO | Стоимость 1 SOON | Вестинг |
+| День Crowdsale | Стоимость 1 SOON | Вестинг |
 |:----------:|:----------:|:----------:|
 | 15.12.2021 | $0.8 | 6 месяцев |
 | 16.12.2021 | $0.9 | 5 месяцев |
@@ -27,7 +27,7 @@ SOON Alliance гарантирует, что в пуле на старте 1 SOO
 | 19.12.2021 | $1.2 | 2 месяца |
 
 > Объясняем, почему так. 
-> Исходя из того, сколько монет «Пользователь» купит на IPO на $100.
+> Исходя из того, сколько монет «Пользователь» купит на Crowdsale на $100.
 >
 > В первый день это может быть 125 SOON
 > А в пятый день это может быть всего 83.3333 SOON
@@ -40,10 +40,10 @@ SOON Alliance гарантирует, что в пуле на старте 1 SOO
 
 [0:5c906a04946cec99de9bae1ca0bf041e441f44684c75c31bcb5974b480805fa2](https://tonscan.io/accounts/0:5c906a04946cec99de9bae1ca0bf041e441f44684c75c31bcb5974b480805fa2)
 
-По итогам проведенного IPO будут подведены итоги в видео формате 20.12.2021 в [@EverBroadcast](https://t.me/EverBroadcast)
+По итогам проведенного Crowdsale будут подведены итоги в видео формате 20.12.2021 в [@EverBroadcast](https://t.me/EverBroadcast)
 
-Так-же, будет обозначена и выпущена конечная эмиссия токена SOON, Root owner будет передан на неконтролируемый смарт-контракт "Black hole", созданы и распределены между участниками IPO системные токены для [вестинга](/vesting/).
+Так-же, будет обозначена и выпущена конечная эмиссия токена SOON, Root owner будет передан на неконтролируемый смарт-контракт "Black hole", созданы и распределены между участниками Crowdsale системные токены для [вестинга](/vesting/).
 
-> ⚠️ Participation in the IPO is prohibited for residents of the United States and residents of Singapore.
+> ⚠️ Participation in the Crowdsale is prohibited for residents of the United States and residents of Singapore.
 
 <p align='center'><img src='https://gramkit.org/everscale-branding-v1.0/logo/main.svg' width='100'></p>
