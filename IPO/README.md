@@ -34,6 +34,12 @@ SOON Alliance гарантирует, что в пуле на старте 1 SOO
 > 
 > Значит, для того, чтоб минимизировать риски, с большим количеством эмиссии на рынке и снижении цены токена SOON, в первый день должен быть максимальный вестинг по месяцам, нежели в пятый день.
 
+Сбор средств будет проходить в токене USDT (TIP3/Broxus) на адрес мульти-сигнатурного кошелька SOON Alliance 
+
+[0:5c906a04946cec99de9bae1ca0bf041e441f44684c75c31bcb5974b480805fa2](https://tonscan.io/accounts/0:5c906a04946cec99de9bae1ca0bf041e441f44684c75c31bcb5974b480805fa2)
+
+По итогам сбора будет подведены итоги в видео формате. Так-же, будет обозначена и выпущена конечная эмиссия токена SOON, Root owner будет передан на неконтролируемый смарт-контракт "Black hole", созданы и распределены между участниками IPO системные токены для [вестинга](/vesting/).
+
 <p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/chart2.png' width='100%'></p>
 
 > ⚠️ Participation in the IPO is prohibited for residents of the United States and residents of Singapore.
