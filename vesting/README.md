@@ -11,3 +11,5 @@
 Оба токена образуют пару на tonswap.io, с наградой в виде фарминга токена SOON. 
 
 Фарминг выставляется на срок, равный сроку блокировки токенов, указанному в "дорожной карте".
+
+<p align='center'><img src='https://gramkit.org/everscale-branding-v1.0/logo/main.svg' width='100'></p>
