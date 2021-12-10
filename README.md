@@ -15,7 +15,7 @@ SOON - Мем-токен типа TIP-3/Broxus на блокчейне Everscale
 |  | Main details |
 |:----------:|:----------:|
 | Address | [0:A88B380064DAD1520F09E6ED1162CE79272503A6D443FC938FAEAABD135C294D](https://tonscan.io/accounts/0:A88B380064DAD1520F09E6ED1162CE79272503A6D443FC938FAEAABD135C294D) |
-| Total supply | Конечная эмиссия токена будет зависеть от проведенного IPO |
+| Total supply | Конечная эмиссия токена будет зависеть от проведенного Crowdsale |
 | Decimals | 4 |
 
 
