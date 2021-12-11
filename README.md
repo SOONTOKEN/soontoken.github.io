@@ -6,6 +6,7 @@
 
 * [Токен SOON](#токен-soon)
 * [SOON Alliance](#soon-alliance)
+* [Партнеры](#партнеры)
 * [Контакты](#контакты)
 
 ## Токен SOON
@@ -54,6 +55,10 @@ SOON Alliance - группа первых держателей токена SOON
 | [@krasnodar_sky](https://t.me/krasnodar_sky) | [0:d0ee75e8ac94d735a9bb553b68b7ccb141237646bf9529098663443724f54f19](https://tonscan.io/accounts/0:d0ee75e8ac94d735a9bb553b68b7ccb141237646bf9529098663443724f54f19) |
 | [@tontikiton](https://t.me/tontikiton) | [0:34c169f99c6a8a1d2d290e5e50ed074f1faeb339a6fc4a3cdd647659335d9820](https://tonscan.io/accounts/0:34c169f99c6a8a1d2d290e5e50ed074f1faeb339a6fc4a3cdd647659335d9820) |
 | [@Angel_108](https://t.me/Angel_108) | [0:076c72e3ff6473d1b16edbb1bcec596f4be6f86c3f8845339d717d9f32e33bea](https://tonscan.io/accounts/0:076c72e3ff6473d1b16edbb1bcec596f4be6f86c3f8845339d717d9f32e33bea) |
+
+## Партнеры
+
+<p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/gramkit1w.png' width='150'>GramKit</p>
 
 ## Контакты
 
