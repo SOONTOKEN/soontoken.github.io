@@ -58,8 +58,10 @@ SOON Alliance - группа первых держателей токена SOON
 
 ## Партнеры
 
-<p align='center'><a href='https://gramkit.org/ru'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/gramkit1w.png' width='150'></a></p>
-<p align='center'><a href='https://checkmate-labs.org'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/Chess-Game.png' width='150'></a></p>
+<p align='center'>
+<a href='https://gramkit.org/ru'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/gramkit1w.png' width='150'></a>
+<a href='https://checkmate-labs.org'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/Chess-Game.png' width='150'></a>
+</p>
 
 ## Контакты
 
