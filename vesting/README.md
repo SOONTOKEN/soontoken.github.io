@@ -16,12 +16,12 @@
 							
 | Срок вестинга | Токен "левой ноги" | Токен "правой ноги" |
 |---------------|--------------------|--------------------|
-| 2 месяца | SOON-CS1-V2-L | SOON-CS1-V2-R |
-| 3 месяца | SOON-CS1-V3-L | SOON-CS1-V3-R |
-| 4 месяца | SOON-CS1-V4-L | SOON-CS1-V4-R |
-| 5 месяцев | SOON-CS1-V5-L | SOON-CS1-V5-R |
-| 6 месяцев | SOON-CS1-V6-L | SOON-CS1-V6-R |
-| 12 месяцев | SOON-SA1-V12-L | SOON-SA1-V12-R |
+| 180 дней | [TRUST180](https://tonscan.io/accounts/0:83d741c5d89cbba93c5882cec5fe35021f53384102a860ed080e8cc7ddd2b64e) | [TOLER180](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) |
+| 150 дней | [TRUST150](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) | [TOLER150](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) |
+| 120 дней | [TRUST120](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) | [TOLER120](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) |
+| 90 дней | [TRUST90](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) | [TOLER90](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) |
+| 60 дней | [TRUST60](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) | [TOLER60](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) |
+| 360 дней | [TRUST360](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) | [TOLER360](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) |
 							
 
 
