@@ -16,12 +16,12 @@
 							
 | Срок вестинга | Токен "левой ноги" | Токен "правой ноги" |
 |---------------|--------------------|--------------------|
-| 180 дней | [TRUST180](https://tonscan.io/accounts/0:83d741c5d89cbba93c5882cec5fe35021f53384102a860ed080e8cc7ddd2b64e) | [TOLER180](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) |
-| 150 дней | [TRUST150](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) | [TOLER150](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) |
-| 120 дней | [TRUST120](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) | [TOLER120](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) |
-| 90 дней | [TRUST90](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) | [TOLER90](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) |
-| 60 дней | [TRUST60](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) | [TOLER60](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) |
-| 360 дней | [TRUST360](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) | [TOLER360](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) |
+| 180 дней | [TRUST180](https://tonscan.io/accounts/0:83d741c5d89cbba93c5882cec5fe35021f53384102a860ed080e8cc7ddd2b64e) | [TOLER180](https://tonscan.io/accounts/) |
+| 150 дней | [TRUST150](https://tonscan.io/accounts/0:d4cb6b03ef724688cb4f128cbf82b94b36de9358af540e4f84c07b110d51e22e) | [TOLER150](https://tonscan.io/accounts/) |
+| 120 дней | [TRUST120](https://tonscan.io/accounts/0:bf87741fdfbf19b1fcd5f86e0155eb2f8b993bf753aa35f27deac8697144395d) | [TOLER120](https://tonscan.io/accounts/) |
+| 90 дней | [TRUST90](https://tonscan.io/accounts/0:0e636d61ebb131b06b81c2ba6b80b6f27674f3126c2d41f042be5558e0df46c7) | [TOLER90](https://tonscan.io/accounts/) |
+| 60 дней | [TRUST60](https://tonscan.io/accounts/) | [TOLER60](https://tonscan.io/accounts/) |
+| 360 дней | [TRUST360](https://tonscan.io/accounts/0:4d943beb5244cee511ad0373bdeabd6ada5bc93e9f5eb3f9b9c91993243ae28e) | [TOLER360](https://tonscan.io/accounts/) |
 							
 
 
