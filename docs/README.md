@@ -5,5 +5,10 @@
 # DOCS
 
 * [Аэрдроп 107 SOON (13.12.2021)](https://docs.google.com/spreadsheets/d/1HQO8z9eEuyf0mHklOlqa9M0V3S0T4e0gGF_kD4dqvhU/edit)
+* [Краудсэйл (15-12-2021)](https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/docs/15-12-2021.csv)
+* [Краудсэйл (16-12-2021)](https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/docs/16-12-2021.csv)
+* [Краудсэйл (17-12-2021)](https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/docs/17-12-2021.csv)
+* [Краудсэйл (18-12-2021)](https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/docs/18-12-2021.csv)
+* [Краудсэйл (19-12-2021)](https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/docs/19-12-2021.csv)
 
 <p align='center'><img src='https://gramkit.org/everscale-branding-v1.0/logo/main.svg' width='100'></p>
