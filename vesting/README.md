@@ -18,8 +18,8 @@
 							
 Токены для вестинга:							
 							
-| Срок вестинга | Токен "левой ноги" | Токен "правой ноги" |
-|---------------|--------------------|--------------------|
+| Срок вестинга | Токен "левой ноги" | Токен "правой ноги" | Пул |
+|---------------|--------------------|--------------------|-----|
 | 180 дней | [TRUST180](https://tonscan.io/accounts/0:83d741c5d89cbba93c5882cec5fe35021f53384102a860ed080e8cc7ddd2b64e) | [TOLER180](https://tonscan.io/accounts/0:591f272a71c13062cc629bc1907c990b664426767570a6bd738d3f43908f8601) |
 | 150 дней | [TRUST150](https://tonscan.io/accounts/0:d4cb6b03ef724688cb4f128cbf82b94b36de9358af540e4f84c07b110d51e22e) | [TOLER150](https://tonscan.io/accounts/0:7b1a009b67e203a04028d337c783a1549c73308d4622fc49addbef1a63e15f1e) |
 | 120 дней | [TRUST120](https://tonscan.io/accounts/0:bf87741fdfbf19b1fcd5f86e0155eb2f8b993bf753aa35f27deac8697144395d) | [TOLER120](https://tonscan.io/accounts/0:50ddbff5d490e3cdefaa0581c0619b3cb3b8a66d433b6788a81575b0ad1607e3) |
