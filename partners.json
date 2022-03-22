@@ -1,7 +1,6 @@
 [
-  {"name":"E-NOTE","link":"#","logo":""},
-  {"name":"Broxus","link":"https://broxus.com","logo":""},
-  {"name":"EverKit","link":"https://everkit.org","logo":""},
-  {"name":"EverSpace","link":"https://everspace.app","logo":""},
-  {"name":"Checkmate","link":"https://checkmate-labs.org","logo":"https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/Chess-Game.png"}
+  {"name":"E-NOTE","link":"#","logo":"https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/partners/E-NOT.png"},
+  {"name":"EverKit","link":"https://everkit.org","logo":"https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/partners/EverKit.png"},
+  {"name":"EverSpace","link":"https://everspace.app","logo":"https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/partners/EverSpace.png"},
+  {"name":"Checkmate","link":"https://checkmate-labs.org","logo":"https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/partners/Checkmate.png"}
 ]
